@@ -1,7 +1,3 @@
-# ⚠️ [DEPRECATED] react-bootstrap-datetimepicker
-
-⚠️ This repository is not maintained anymore, please refer to this fork : https://github.com/YouCanBookMe/react-datetime
-
 This project is a port of https://github.com/Eonasdan/bootstrap-datetimepicker for React.js
 
 # Usage
@@ -9,7 +5,7 @@ This project is a port of https://github.com/Eonasdan/bootstrap-datetimepicker f
 Installation :
 
 ```
-npm @blen/install react-bootstrap-datetimepicker
+npm i @blen/react-bootstrap-datetimepicker
 ```
 
 Then
