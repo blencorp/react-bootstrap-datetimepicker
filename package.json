@@ -3,10 +3,7 @@
   "version": "0.0.22",
   "description": "A bootstrap datetime picker component for React.js",
   "homepage": "http://dev.quri.com/react-bootstrap-datetimepicker/",
-  "repository": {
-    "type": "git",
-    "url": "http://github.com/quri/react-bootstrap-datetimepicker"
-  },
+  "repository": "https://github.com/blencorp/react-bootstrap-datetimepicker.git",
   "main": "./lib/DateTimeField.js",
   "scripts": {
     "build-npm": "babel --stage 0 ./src -d ./lib --ignore __tests__/*",
@@ -23,7 +20,7 @@
     "datetimepicker",
     "datetime"
   ],
-  "author": "Loïc CHOLLIER <loic@chollier.com>",
+  "author": "naod@blencorp.com",
   "license": "MIT",
   "peerDependencies": {
     "react": ">=0.14"
